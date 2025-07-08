@@ -54,8 +54,8 @@ interests:
 education:
   - area: B.E. Robotics and Automation
     institution: D.Y. Patil College of Engineering, Pune
-    date_start: 1-12-2021
-    date_end: 1-6-2025
+    date_start: 2021-01-01
+    date_end: 2025-07-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
