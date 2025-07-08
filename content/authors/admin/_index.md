@@ -47,15 +47,15 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Robot Operating System (ROS/ROS2)
+  - ROS/ROS2
   - SLAM
   - Robot Design
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.E. Robotics and Automation
+    institution: D.Y. Patil College of Engineering, Pune
+    date_start: 12/2021
+    date_end: 6/2025
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -143,11 +143,11 @@ skills:
 
 languages:
   - name: English
+    percent: 80
+  - name: Hindi
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Marathi
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m a passionate robotics engineer with a strong foundation in robot design and extensive hands-on experience with ROS. I enjoy building intelligent, efficient robotic systems that solve real-world problems. My work blends mechanical design, embedded systems, and software integration to bring robots to life from concept to deployment.
