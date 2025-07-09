@@ -34,13 +34,13 @@ profiles:
     url: 'mailto:prathameshmawale@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/Prathamesh2805
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/prathamesh0503/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/pratham280
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/prathamesh-mawale/
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   # - icon: academicons/orcid
@@ -112,7 +112,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: ROS/ROS2
         description: ''
         percent: 80
         icon: code-bracket
@@ -132,10 +132,10 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
-        icon: cat
+        icon: dog
       - name: Photography
         description: ''
         percent: 80
@@ -148,6 +148,8 @@ languages:
     percent: 100
   - name: Marathi
     percent: 100
+  - name: Telugu
+    percent: 70
 
 # Awards.
 #   Add/remove as many awards below as you like.
