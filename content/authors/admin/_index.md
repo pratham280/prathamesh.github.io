@@ -57,14 +57,19 @@ education:
     date_start: 2021-01-01
     date_end: 2025-07-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      GPA: 8.0/10.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: Higher Secondary School 
+    institution: Narayana Junior College 
+    date_start: 2019-01-01
+    date_end: 2021-06-01
     summary: |
       GPA: 8.0/10.0
 
@@ -72,7 +77,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
+  - area: Secondary School
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -84,28 +89,30 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Project Intern
+    company_name: 3D Wizard
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-09-01
+    date_end: 2025-02-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Gained hands-on experience with 3D printing technologies and machine calibration.  
+      - Assisted in the design and prototyping of custom parts for academic and industrial clients.  
+      - Managed print queues and optimized model slicing for material efficiency and print quality.  
+      - Collaborated with engineers to troubleshoot print failures and improve print consistency.  
+      - Developed a strong understanding of additive manufacturing workflows and post-processing techniques.
+  - position: Robot Engineer
+    company_name: BotMakers
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-01-01
+    date_end: 2024-06-01
+    summary: |
+      - Designed and developed robots tailored for college-level competitions, focusing on performance and reliability.  
+      - Conducted workshops and training sessions to educate students on robotics fundamentals and hands-on building.  
+      - Strengthened leadership and communication skills by mentoring teams and guiding project execution.  
+      - Collaborated with peers to solve real-time technical challenges during robotics events.  
+      - Played a key role in fostering a maker culture and promoting robotics in academic communities.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -132,10 +139,10 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Dogs
+      - name: Cats
         description: ''
         percent: 100
-        icon: dog
+        icon: cat
       - name: Photography
         description: ''
         percent: 80
@@ -176,7 +183,7 @@ awards:
   - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
+    date: '2023-01-21'  
     awarder: datacamp
     icon: datacamp
     summary: |

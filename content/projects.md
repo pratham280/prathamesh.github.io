@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Robotics Project
+      text: I enjoy making things. Below is a curated list of key projects I developed during my academic journey.
       filters:
         folders:
           - project
