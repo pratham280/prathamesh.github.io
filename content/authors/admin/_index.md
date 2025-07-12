@@ -77,7 +77,7 @@ education:
   - area: Secondary School Education
     institution: Prodigy Public School
     date_start: 2016-06-01
-    date_end: 2019-06-1
+    date_end: 2019-06-01
     summary: |
       Percentage: 79.6%
 work:
