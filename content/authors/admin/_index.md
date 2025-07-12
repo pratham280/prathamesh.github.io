@@ -114,11 +114,11 @@ skills:
       - name: ROS/ROS2
         description: ''
         percent: 80
-        icon: 'ros'
+        icon: "custom/ros"
       - name: Linux
         description: ''
         percent: 100
-        icon: 'linux'
+        icon: "custom/linux"
       - name: Sensor Integration
         description: ''
         percent: 40
