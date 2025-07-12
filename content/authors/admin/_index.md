@@ -54,7 +54,7 @@ interests:
 education:
   - area: B.E. Robotics and Automation
     institution: D.Y. Patil College of Engineering, Pune
-    date_start: 2021-01-01
+    date_start: 2021-06-01
     date_end: 2025-07-01
     summary: |2-
       GPA: 8.0/10.0
@@ -70,19 +70,19 @@ education:
     #   url: 'https://example.com'
   - area: Higher Secondary Education 
     institution: Narayana Junior College, Hyderabad
-    date_start: 2019-01-01
-    date_end: 2021-06-01
+    date_start: 2019-06-01
+    date_end: 2021-05-01
     summary: |
       Percentage: 87.5%
   - area: Secondary School Education
-    institution: Prodigy Public School
+    institution: Prodigy Public School, Pune
     date_start: 2016-06-01
-    date_end: 2019-06-01
+    date_end: 2019-05-01
     summary: |
       Percentage: 79.6%
 work:
   - position: Project Intern
-    company_name: 3D Wizard
+    company_name: 3D Wizard, Pune
     company_url: ''
     company_logo: ''
     date_start: 2024-09-01
@@ -94,7 +94,7 @@ work:
       - Collaborated with engineers to troubleshoot print failures and improve print consistency.  
       - Developed a strong understanding of additive manufacturing workflows and post-processing techniques.
   - position: Robot Engineer
-    company_name: BotMakers
+    company_name: BotMakers Pvt Ltd, Pune
     company_url: ''
     company_logo: ''
     date_start: 2024-01-01
@@ -114,12 +114,12 @@ skills:
       - name: ROS/ROS2
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
+        icon: ros
+      - name: Linux
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: linux
+      - name: Sensor Integration
         description: ''
         percent: 40
         icon: circle-stack
@@ -131,7 +131,7 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
         icon: cat
@@ -155,11 +155,12 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+  - title: Certificate of Participation
+    url: https://www.e-yantra.org/
+    certificate_url: 
     date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+    awarder: E-Yantra Robotics Competition (eYRC)
+    icon: eYRC
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Blockchain Fundamentals
