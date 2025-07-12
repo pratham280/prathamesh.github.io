@@ -96,7 +96,7 @@ work:
   - position: Robot Engineer
     company_name: BotMakers Pvt Ltd, Pune
     company_url: ''
-    company_logo: ''
+    company_logo: 'botmakers'
     date_start: 2024-01-01
     date_end: 2024-06-01
     summary: |
