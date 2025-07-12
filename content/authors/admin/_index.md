@@ -56,38 +56,30 @@ education:
     institution: D.Y. Patil College of Engineering, Pune
     date_start: 2021-01-01
     date_end: 2025-07-01
-    summary: |
+    summary: |2-
       GPA: 8.0/10.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - **Robot Kinematics and Dynamics:** Studied the motion and control of robotic arms and mobile robots, including forward/inverse kinematics and trajectory planning.  
+      - **Embedded Systems and Microcontrollers:** Gained practical experience programming controllers like Arduino, ESP32, and STM32 for real-time robotic applications.  
+      - **Control Systems Engineering:** Learned feedback systems, PID control, and automation techniques used in industrial and mobile robotics.  
+      - **Machine Vision & AI Integration:** Explored the use of computer vision and AI algorithms for navigation, object detection, and autonomous decision-making.  
+      - **Industrial Automation and PLCs:** Hands-on training with PLCs, SCADA, and HMI for factory automation and process control systems.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: Higher Secondary School 
-    institution: Narayana Junior College 
+  - area: Higher Secondary Education 
+    institution: Narayana Junior College, Hyderabad
     date_start: 2019-01-01
     date_end: 2021-06-01
     summary: |
-      GPA: 8.0/10.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: Secondary School
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Percentage: 87.5%
+  - area: Secondary School Education
+    institution: Prodigy Public School
+    date_start: 2016-06-01
+    date_end: 2019-06-1
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Percentage: 79.6%
 work:
   - position: Project Intern
     company_name: 3D Wizard
