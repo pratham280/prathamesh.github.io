@@ -113,7 +113,7 @@ skills:
     items:
       - name: ROS/ROS2
         description: ''
-        percent: 80
+        percent: 100
         icon: "custom/ros"
       - name: Linux
         description: ''
