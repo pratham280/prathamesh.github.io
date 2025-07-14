@@ -1,13 +1,11 @@
 ---
-title: PyTorch
+title: Warehouse management 
 date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+external_link: https://github.com/pratham280/Warehouse_management
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Second Year PBL
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+A line-following robot for warehouse automation, transporting items efficiently using IR sensors and motor control logic.
 
 <!--more-->

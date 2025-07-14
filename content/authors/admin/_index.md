@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Robotics Engineer 
+role: Fresher 
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
@@ -96,7 +96,7 @@ work:
   - position: Robot Engineer
     company_name: BotMakers Pvt Ltd, Pune
     company_url: ''
-    company_logo: 'botmakers'
+    company_logo: ''
     date_start: 2024-01-01
     date_end: 2024-06-01
     summary: |
@@ -111,44 +111,92 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: ROS/ROS2
+      - name: ROS2
         description: ''
-        percent: 100
+        # percent: 100
         icon: "custom/ros"
       - name: Linux
         description: ''
-        percent: 100
+        # percent: 100
         icon: "custom/linux"
-      - name: Sensor Integration
+      - name: C++
         description: ''
-        percent: 40
-        icon: circle-stack
+        # percent: 40
+        icon: "custom/cpp"
+      - name: Python
+        description: ''
+        # percent: 40
+        icon: "custom/python"
+      - name: Gazebo
+        description: ''
+        # percent: 40
+        icon: "custom/gazebo"
+      - name: Git
+        description: ''
+        # percent: 40
+        icon: 'custom/git'
+      - name: Docker
+        description: ''
+        # percent: 40
+        icon: 'custom/docker'
+      - name: OpenCV
+        description: ''
+        # percent: 40
+        icon: "custom/cv"
+      - name: Rviz
+        description: ''
+        # percent: 40
+        icon: "custom/ros"
+      - name: Fusion/Solidworks
+        description: ''
+        # percent: 40
+        icon: 'custom/cad'
+      - name: Microcontrollers
+        description: ''
+        # percent: 40
+        icon: 'custom/micro'
+      - name: Sensor Fusion
+        description: ''
+        # percent: 40
+        icon: 'custom/sensor'
+      - name: 3D Printing
+        description: ''
+        # percent: 40
+        icon: 'custom/3d'
+      - name: SLAM
+        description: ''
+        # percent: 40
+        icon: 'custom/map'
+      - name: urdf & tf
+        description: ''
+        # percent: 40
+        icon: 'custom/urdf'
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        # percent: 60
         icon: person-simple-walk
       - name: Dogs
         description: ''
-        percent: 100
-        icon: cat
+        # percent: 100
+        icon: 'custom/dog'
       - name: Photography
         description: ''
-        percent: 80
+        # percent: 80
         icon: camera
 
 languages:
   - name: English
-    percent: 80
-  - name: Hindi
-    percent: 100
+    percent: 98
   - name: Marathi
-    percent: 100
+    percent: 99
+  - name: Hindi
+    percent: 95
   - name: Telugu
-    percent: 70
+    percent: 90
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -157,17 +205,18 @@ languages:
 awards:
   - title: Certificate of Participation
     url: https://www.e-yantra.org/
-    certificate_url: 
-    date: '2023-11-25'
+    certificate_url: /uploads/certificates/eyrc.pdf
+    date: '2024-04-21'
     awarder: E-Yantra Robotics Competition (eYRC)
-    icon: eYRC
+    icon: eyrc
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+  - title: Certificate of Participation 
+    url: https://www.robotex-india.in/
+    certificate_url: /uploads/certificates/robotex.pdf
+    date: '2024-08-11'
+    awarder: Robotex India 
+    icon: robotex
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
