@@ -210,7 +210,8 @@ awards:
     awarder: E-Yantra Robotics Competition (eYRC)
     icon: eyrc
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      - I participated in the 15th edition of the e-Yantra Robotics Competition (eYRC) under the theme Astro Tinker, where we developed an FPGA-based line-following robot for a space-themed, task-oriented arena. 
+      - As part of this project-based learning module, we designed and implemented a custom RISC-V CPU architecture on the FPGA to run the robot’s path planning algorithm. The robot autonomously navigated, monitored environmental conditions, and executed pick-and-place operations using sensor feedback. This experience strengthened my understanding of digital logic design, embedded control, and FPGA-based system development.
   - title: Certificate of Participation 
     url: https://www.robotex-india.in/
     certificate_url: /uploads/certificates/robotex.pdf
@@ -218,10 +219,7 @@ awards:
     awarder: Robotex India 
     icon: robotex
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      I participated in Robotex India, where I developed two competition-ready robots: an advanced line follower and a maze-solving robot, securing 7th and 2nd place respectively. The line follower featured a PID control system, high-speed IR sensor array, and a custom-designed PCB for optimized performance. The maze solver demonstrated intelligent path-planning and adaptability under real-time constraints. Our performance qualified us for the international finals at Robotex Global, highlighting both our technical competence and competitive excellence.
   - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
