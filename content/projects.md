@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Robotics Project
+      title: My Projects
       text: I enjoy making things. Below is a curated list of key projects I developed during my academic journey.
       filters:
         folders:

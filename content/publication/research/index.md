@@ -175,9 +175,7 @@ This project demonstrates the design and development of a modular four-legged ro
 ### 👨‍💻 Contributors
 - Samyak R. Ghangale  
 - Sumeet Adsul  
-- Prathamesh J. Mawale  
-- Nitin K. Kamble  
-- Rohit P. Jadhav  
+- Prathamesh J. Mawale   
 
 <!-- --- -->
 <!-- 

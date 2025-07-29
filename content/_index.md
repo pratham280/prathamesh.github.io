@@ -30,7 +30,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: "🛠️ Technical Skills"
+      title: "🛠️ Technical Skills 🛠️"
       subtitle: ''
       text: |-
        Skilled in developing and simulating robotic systems using ROS and ROS2, with proficiency in C++ and Python. 
@@ -44,22 +44,17 @@ sections:
        Also understands version control with Git and containerization using Docker, enabling a streamlined and modular approach to robotics development.
     design:
       columns: '1'
-  # - block: skills
-  #   content:
-  #     title: "🛠️ Technical Skills"
-  #   design:
-  #     columns: 1 
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Recent Publications
       filters:
         folders:
           - publication
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 1
   # - block: collection
   #   content:
   #     title: Recent Publications
