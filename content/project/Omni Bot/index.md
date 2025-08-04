@@ -6,6 +6,6 @@ tags:
   - Club Project
 ---
 
-An omni-directional robot using omni wheels, allowing smooth lateral movement and precise control in compact environments.
+An omni-directional robot using omni wheels, allowing smooth lateral movement and precise control with the help of Holonomic drive in compact environments. 
 
 <!--more-->

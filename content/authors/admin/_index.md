@@ -179,7 +179,7 @@ skills:
         description: ''
         # percent: 60
         icon: person-simple-walk
-      - name: Dogs
+      - name: Driving
         description: ''
         # percent: 100
         icon: 'custom/dog'
