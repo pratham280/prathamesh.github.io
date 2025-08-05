@@ -182,7 +182,7 @@ skills:
       - name: Driving
         description: ''
         # percent: 100
-        icon: 'custom/dog'
+        icon: motorbike
       - name: Photography
         description: ''
         # percent: 80
@@ -203,16 +203,17 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Certificate of Participation
+  - title: Active Participant – eYantra Robotics Competition
     url: https://www.e-yantra.org/
     certificate_url: /uploads/certificates/eyrc.pdf
     date: '2024-04-21'
-    awarder: E-Yantra Robotics Competition (eYRC)
+    awarder: E-Yantra, IITB
     icon: eyrc
     summary: |
       - I participated in the 15th edition of the e-Yantra Robotics Competition (eYRC) under the theme Astro Tinker, where we developed an FPGA-based line-following robot for a space-themed, task-oriented arena. 
       - As part of this project-based learning module, we designed and implemented a custom RISC-V CPU architecture on the FPGA to run the robot’s path planning algorithm. The robot autonomously navigated, monitored environmental conditions, and executed pick-and-place operations using sensor feedback. This experience strengthened my understanding of digital logic design, embedded control, and FPGA-based system development.
-  - title: Certificate of Participation 
+# /----------------------------------------------------------------------------------------------------------------
+  - title: Successfully Participated in Robotex competition 
     url: https://www.robotex-india.in/
     certificate_url: /uploads/certificates/robotex.pdf
     date: '2024-08-11'
@@ -220,14 +221,51 @@ awards:
     icon: robotex
     summary: |
       I participated in Robotex India, where I developed two competition-ready robots: an advanced line follower and a maze-solving robot, securing 7th and 2nd place respectively. The line follower featured a PID control system, high-speed IR sensor array, and a custom-designed PCB for optimized performance. The maze solver demonstrated intelligent path-planning and adaptability under real-time constraints. Our performance qualified us for the international finals at Robotex Global, highlighting both our technical competence and competitive excellence.
-  - title: 'Object-Oriented Programming in R'
+# /----------------------------------------------------------------------------------------------------------------
+  - title: 'Runner-Up Triumph at Army Institute'
+    # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    certificate_url: /uploads/certificates/robotex.pdf
+    date: '2022-12-21'  
+    awarder: Army Institute of Technology, Pune
+    icon: trophy
+    summary: |
+      Secured 2nd position at a robotics competition held by Army Institute of Technology, Pune, by designing a basic line follower robot capable of accurately navigating a simple track using IR sensors and embedded logic.
+# /----------------------------------------------------------------------------------------------------------------
+  - title: 'Winner of AAVISHKAR 2023 (College Level)'
+    url: https://avishkar.uniPune.ac.in/
+    certificate_url: uploads/certificates/robotex.pdf.com
+    date: '2023-09-26'  
+    awarder: DYPCOE, Pune
+    icon: sppu
+    summary: |
+      Secured 1st place in the college-level AAvishkar project competition organized by Savitribai Phule Pune University (SPPU). Presented an innovative Warehouse Management System through a detailed poster presentation, showcasing practical solutions for inventory tracking, space optimization, and operational efficiency.
+# /----------------------------------------------------------------------------------------------------------------
+  - title: 'Participation Recognition - AAVISHKAR 2023 (Zonal Level)'
+    url: https://avishkar.uniPune.ac.in/
+    certificate_url: uploads/certificates/robotex.pdf.com
+    date: '2023-10-26'  
+    awarder: Savitribai Phule Pune University, Pune
+    icon: sppu
+    summary: |
+      After winning the college-level Avishkar project competition organized by SPPU, I was selected to represent my institution at the zonal-level round. Presented the Warehouse Management Project to a broader academic panel, showcasing its scalability, real-world application, and technical depth through a detailed poster explanation and Q&A session. This stage provided valuable exposure and recognition at a higher competitive level.
+# /----------------------------------------------------------------------------------------------------------------
+  - title: 'Certificate of Completion – Flutter & Dart Development Bootcamp'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
-    date: '2023-01-21'  
-    awarder: datacamp
-    icon: datacamp
+    date: '2025-06-26'  
+    awarder: Udemy
+    icon: flutter
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Successfully completed a comprehensive Udemy course on Dart and Flutter, covering the fundamentals of Dart programming and cross-platform mobile app development using Flutter. Gained hands-on experience in building responsive, feature-rich applications with real-world UI/UX practices, API integration, and state management techniques like Provider and BLoC.
+# /----------------------------------------------------------------------------------------------------------------
+  - title: 'Certificate of Completion – Flutter & Dart Development Bootcamp'
+    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    certificate_url: https://www.datacamp.com
+    date: '2025-06-26'  
+    awarder: Udemy
+    icon: flutter
+    summary: |
+      Successfully completed a comprehensive Udemy course on Dart and Flutter, covering the fundamentals of Dart programming and cross-platform mobile app development using Flutter. Gained hands-on experience in building responsive, feature-rich applications with real-world UI/UX practices, API integration, and state management techniques like Provider and BLoC.
 ---
 
 ## About Me
