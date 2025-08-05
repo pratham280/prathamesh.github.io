@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: B.E. Robotics and Automation
-    institution: D.Y. Patil College of Engineering, Pune
+    institution: D.Y. Patil College of Engineering (DYPCOE), Pune
     date_start: 2021-06-01
     date_end: 2025-07-01
     summary: |2-
@@ -94,7 +94,7 @@ work:
       - Collaborated with engineers to troubleshoot print failures and improve print consistency.  
       - Developed a strong understanding of additive manufacturing workflows and post-processing techniques.
   - position: Robot Engineer
-    company_name: BotMakers Pvt Ltd, Pune
+    company_name: BotMakers, Pune
     company_url: ''
     company_logo: ''
     date_start: 2024-01-01
@@ -127,10 +127,14 @@ skills:
         description: ''
         # percent: 40
         icon: "custom/python"
-      - name: Gazebo
+      - name: Gazebo/Ignition
         description: ''
         # percent: 40
         icon: "custom/gazebo"
+      - name: Issac Sim
+        description: ''
+        # percent: 40
+        icon: "custom/nvidia"
       - name: Git
         description: ''
         # percent: 40
@@ -224,7 +228,7 @@ awards:
 # /----------------------------------------------------------------------------------------------------------------
   - title: 'Runner-Up Triumph at Army Institute'
     # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: /uploads/certificates/robotex.pdf
+    certificate_url: /uploads/certificates/army institute.pdf
     date: '2022-12-21'  
     awarder: Army Institute of Technology, Pune
     icon: trophy
@@ -233,7 +237,7 @@ awards:
 # /----------------------------------------------------------------------------------------------------------------
   - title: 'Winner of AAVISHKAR 2023 (College Level)'
     url: https://avishkar.uniPune.ac.in/
-    certificate_url: uploads/certificates/robotex.pdf.com
+    certificate_url: /uploads/certificates/avishkar.pdf
     date: '2023-09-26'  
     awarder: DYPCOE, Pune
     icon: sppu
@@ -242,30 +246,39 @@ awards:
 # /----------------------------------------------------------------------------------------------------------------
   - title: 'Participation Recognition - AAVISHKAR 2023 (Zonal Level)'
     url: https://avishkar.uniPune.ac.in/
-    certificate_url: uploads/certificates/robotex.pdf.com
+    certificate_url: /uploads/certificates/avishkar zonals.pdf
     date: '2023-10-26'  
-    awarder: Savitribai Phule Pune University, Pune
+    awarder: Savitribai Phule Pune University (SPPU), Pune
     icon: sppu
     summary: |
       After winning the college-level Avishkar project competition organized by SPPU, I was selected to represent my institution at the zonal-level round. Presented the Warehouse Management Project to a broader academic panel, showcasing its scalability, real-world application, and technical depth through a detailed poster explanation and Q&A session. This stage provided valuable exposure and recognition at a higher competitive level.
 # /----------------------------------------------------------------------------------------------------------------
   - title: 'Certificate of Completion – Flutter & Dart Development Bootcamp'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
+    url: https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps
+    certificate_url: /uploads/certificates/flutter.pdf
     date: '2025-06-26'  
     awarder: Udemy
     icon: flutter
     summary: |
       Successfully completed a comprehensive Udemy course on Dart and Flutter, covering the fundamentals of Dart programming and cross-platform mobile app development using Flutter. Gained hands-on experience in building responsive, feature-rich applications with real-world UI/UX practices, API integration, and state management techniques like Provider and BLoC.
 # /----------------------------------------------------------------------------------------------------------------
-  - title: 'Certificate of Completion – Flutter & Dart Development Bootcamp'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2025-06-26'  
+  - title: 'Certificate of Completion – ROS2 For Beginners'
+    url: https://www.udemy.com/course/ros2-for-beginners
+    certificate_url: /uploads/certificates/ros.pdf
+    date: '2024-05-26'  
     awarder: Udemy
-    icon: flutter
+    icon: ros
     summary: |
-      Successfully completed a comprehensive Udemy course on Dart and Flutter, covering the fundamentals of Dart programming and cross-platform mobile app development using Flutter. Gained hands-on experience in building responsive, feature-rich applications with real-world UI/UX practices, API integration, and state management techniques like Provider and BLoC.
+      Completed a hands-on course in ROS 2 (Robot Operating System 2), covering core concepts such as nodes, topics, services, actions, and the ROS 2 communication architecture. Gained practical experience in developing and simulating robotic applications using rclpy, launch files, and integrating sensors and actuators. The course also included working with simulation tools like Gazebo and RViz, emphasizing modular, scalable, and real-time robotic system development.
+# /----------------------------------------------------------------------------------------------------------------
+  - title: 'Certificate of Appreciation – Leadership in DRAIC (Robotics Club)'
+    # url: https://www.udemy.com/course/ros2-for-beginners
+    certificate_url: /uploads/certificates/aunal day.pdf
+    date: '2025-04-26'  
+    awarder: DYPCOE, Pune
+    icon: medal
+    summary: |
+      Received a Certificate of Appreciation for leading and actively managing the robotics club DRAIC (Design and Robotics Automation & Innovation Club). Recognized for organizing workshops, guiding project teams, and fostering a collaborative environment that promoted innovation, hands-on learning, and technical excellence in the field of robotics.
 ---
 
 ## About Me
