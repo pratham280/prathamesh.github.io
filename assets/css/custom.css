@@ -1,0 +1,9 @@
+/* Change font for top navbar */
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+.navbar-brand{
+ font-family: "Cedarville Cursive", cursive;
+  font-weight: 500;
+  font-size: x-large;
+  font-style: normal;
+}
