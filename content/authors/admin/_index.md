@@ -93,6 +93,9 @@ work:
       - Managed print queues and optimized model slicing for material efficiency and print quality.  
       - Collaborated with engineers to troubleshoot print failures and improve print consistency.  
       - Developed a strong understanding of additive manufacturing workflows and post-processing techniques.
+    button:
+      text: 'Internship letter'
+      url: /uploads/certificates/3d wizard.pdf
   - position: Robot Engineer
     company_name: BotMakers, Pune
     company_url: ''
@@ -105,6 +108,9 @@ work:
       - Strengthened leadership and communication skills by mentoring teams and guiding project execution.  
       - Collaborated with peers to solve real-time technical challenges during robotics events.  
       - Played a key role in fostering a maker culture and promoting robotics in academic communities.
+    button:
+      text: 'Internship letter'
+      url: /uploads/certificates/botmakers.pdf
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -272,7 +278,6 @@ awards:
       Completed a hands-on course in ROS 2 (Robot Operating System 2), covering core concepts such as nodes, topics, services, actions, and the ROS 2 communication architecture. Gained practical experience in developing and simulating robotic applications using rclpy, launch files, and integrating sensors and actuators. The course also included working with simulation tools like Gazebo and RViz, emphasizing modular, scalable, and real-time robotic system development.
 # /----------------------------------------------------------------------------------------------------------------
   - title: 'Certificate of Appreciation – Leadership in DRAIC (Robotics Club)'
-    # url: https://www.udemy.com/course/ros2-for-beginners
     certificate_url: /uploads/certificates/aunal day.pdf
     date: '2025-04-26'  
     awarder: DYPCOE, Pune
