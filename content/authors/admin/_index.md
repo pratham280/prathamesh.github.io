@@ -284,6 +284,14 @@ awards:
     icon: medal
     summary: |
       Received a Certificate of Appreciation for leading and actively managing the robotics club DRAIC (Design and Robotics Automation & Innovation Club). Recognized for organizing workshops, guiding project teams, and fostering a collaborative environment that promoted innovation, hands-on learning, and technical excellence in the field of robotics.
+# /----------------------------------------------------------------------------------------------------------------
+  - title: 'Runner-up – Roborastra 2024'
+    certificate_url: /uploads/certificates/aunal day.pdf
+    date: '2025-04-26'  
+    awarder: PCCOER, Pune
+    icon: trophy
+    summary: |
+      Secured 2nd position at ResQlympics (Roborastra 2024) held at PCCOER with a task-based robot designed for precision navigation and objective completion under time constraints. The bot demonstrated reliability, efficiency, and consistent task execution across multiple challenge zones.
 ---
 
 ## About Me
