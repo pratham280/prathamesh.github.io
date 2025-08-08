@@ -57,14 +57,14 @@ education:
     date_start: 2021-06-01
     date_end: 2025-07-01
     summary: |2-
-      GPA: 8.0/10.0
+      CGPA: 8.0/10.0
 
-      Courses included:
-      - **Robot Kinematics and Dynamics:** Studied the motion and control of robotic arms and mobile robots, including forward/inverse kinematics and trajectory planning.  
-      - **Embedded Systems and Microcontrollers:** Gained practical experience programming controllers like Arduino, ESP32, and STM32 for real-time robotic applications.  
-      - **Control Systems Engineering:** Learned feedback systems, PID control, and automation techniques used in industrial and mobile robotics.  
-      - **Machine Vision & AI Integration:** Explored the use of computer vision and AI algorithms for navigation, object detection, and autonomous decision-making.  
-      - **Industrial Automation and PLCs:** Hands-on training with PLCs, SCADA, and HMI for factory automation and process control systems.
+      - **Courses included:**
+        - **Robot Kinematics and Dynamics:** Studied the motion and control of robotic arms and mobile robots, including forward/inverse kinematics and trajectory planning.  
+        - **Embedded Systems and Microcontrollers:** Gained practical experience programming controllers like Arduino, ESP32, and STM32 for real-time robotic applications.  
+        - **Control Systems Engineering:** Learned feedback systems, PID control, and automation techniques used in industrial and mobile robotics.  
+        - **Machine Vision & AI Integration:** Explored the use of computer vision and AI algorithms for navigation, object detection, and autonomous decision-making.  
+        - **Industrial Automation and PLCs:** Hands-on training with PLCs, SCADA, and HMI for factory automation and process control systems.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -81,6 +81,20 @@ education:
     summary: |
       Percentage: 79.6%
 work:
+  - position: Founder
+    company_name: TechnoPrints, Pune
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-01-01
+    # date_end: 2025-02-01
+    summary: |
+      - Started and managed a 3D printing business serving clients from various fields.
+      - Designed and developed 3D models in CAD based on client ideas and requirements.
+      - Produced items ranging from functional prototypes to custom novelty products.
+      - Improved client designs for better strength, appearance, and print quality.
+      - Operated and maintained 3D printers to ensure precision and consistency.
+      - Delivered complete, ready-to-use products with a focus on quality and client satisfaction.
+      - Provided both creative and practical solutions for unique project needs.
   - position: Project Intern
     company_name: 3D Wizard, Pune
     company_url: ''
@@ -232,6 +246,14 @@ awards:
     summary: |
       I participated in Robotex India, where I developed two competition-ready robots: an advanced line follower and a maze-solving robot, securing 7th and 2nd place respectively. The line follower featured a PID control system, high-speed IR sensor array, and a custom-designed PCB for optimized performance. The maze solver demonstrated intelligent path-planning and adaptability under real-time constraints. Our performance qualified us for the international finals at Robotex Global, highlighting both our technical competence and competitive excellence.
 # /----------------------------------------------------------------------------------------------------------------
+  - title: 'Runner-up – Roborastra 2024'
+    certificate_url: /uploads/certificates/aunal day.pdf
+    date: '2025-04-26'  
+    awarder: PCCOER, Pune
+    icon: trophy
+    summary: |
+      Secured 2nd position at ResQlympics (Roborastra 2024) held at PCCOER with a task-based robot designed for precision navigation and objective completion under time constraints. The bot demonstrated reliability, efficiency, and consistent task execution across multiple challenge zones.
+# /----------------------------------------------------------------------------------------------------------------
   - title: 'Runner-Up Triumph at Army Institute'
     # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: /uploads/certificates/army institute.pdf
@@ -240,6 +262,14 @@ awards:
     icon: trophy
     summary: |
       Secured 2nd position at a robotics competition held by Army Institute of Technology, Pune, by designing a basic line follower robot capable of accurately navigating a simple track using IR sensors and embedded logic.
+# /----------------------------------------------------------------------------------------------------------------
+  - title: 'Certificate of Appreciation – Leadership in DRAIC (Robotics Club)'
+    certificate_url: /uploads/certificates/aunal day.pdf
+    date: '2025-04-26'  
+    awarder: DYPCOE, Pune
+    icon: medal
+    summary: |
+      Received a Certificate of Appreciation for leading and actively managing the robotics club DRAIC (Design and Robotics Automation & Innovation Club). Recognized for organizing workshops, guiding project teams, and fostering a collaborative environment that promoted innovation, hands-on learning, and technical excellence in the field of robotics.
 # /----------------------------------------------------------------------------------------------------------------
   - title: 'Winner of AAVISHKAR 2023 (College Level)'
     url: https://avishkar.uniPune.ac.in/
@@ -259,15 +289,6 @@ awards:
     summary: |
       After winning the college-level Avishkar project competition organized by SPPU, I was selected to represent my institution at the zonal-level round. Presented the Warehouse Management Project to a broader academic panel, showcasing its scalability, real-world application, and technical depth through a detailed poster explanation and Q&A session. This stage provided valuable exposure and recognition at a higher competitive level.
 # /----------------------------------------------------------------------------------------------------------------
-  - title: 'Certificate of Completion – Flutter & Dart Development Bootcamp'
-    url: https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps
-    certificate_url: /uploads/certificates/flutter.pdf
-    date: '2025-06-26'  
-    awarder: Udemy
-    icon: flutter
-    summary: |
-      Successfully completed a comprehensive Udemy course on Dart and Flutter, covering the fundamentals of Dart programming and cross-platform mobile app development using Flutter. Gained hands-on experience in building responsive, feature-rich applications with real-world UI/UX practices, API integration, and state management techniques like Provider and BLoC.
-# /----------------------------------------------------------------------------------------------------------------
   - title: 'Certificate of Completion – ROS2 For Beginners'
     url: https://www.udemy.com/course/ros2-for-beginners
     certificate_url: /uploads/certificates/ros.pdf
@@ -277,21 +298,14 @@ awards:
     summary: |
       Completed a hands-on course in ROS 2 (Robot Operating System 2), covering core concepts such as nodes, topics, services, actions, and the ROS 2 communication architecture. Gained practical experience in developing and simulating robotic applications using rclpy, launch files, and integrating sensors and actuators. The course also included working with simulation tools like Gazebo and RViz, emphasizing modular, scalable, and real-time robotic system development.
 # /----------------------------------------------------------------------------------------------------------------
-  - title: 'Certificate of Appreciation – Leadership in DRAIC (Robotics Club)'
-    certificate_url: /uploads/certificates/aunal day.pdf
-    date: '2025-04-26'  
-    awarder: DYPCOE, Pune
-    icon: medal
+  - title: 'Certificate of Completion – Flutter & Dart Development Bootcamp'
+    url: https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps
+    certificate_url: /uploads/certificates/flutter.pdf
+    date: '2025-06-26'  
+    awarder: Udemy
+    icon: flutter
     summary: |
-      Received a Certificate of Appreciation for leading and actively managing the robotics club DRAIC (Design and Robotics Automation & Innovation Club). Recognized for organizing workshops, guiding project teams, and fostering a collaborative environment that promoted innovation, hands-on learning, and technical excellence in the field of robotics.
-# /----------------------------------------------------------------------------------------------------------------
-  - title: 'Runner-up – Roborastra 2024'
-    certificate_url: /uploads/certificates/aunal day.pdf
-    date: '2025-04-26'  
-    awarder: PCCOER, Pune
-    icon: trophy
-    summary: |
-      Secured 2nd position at ResQlympics (Roborastra 2024) held at PCCOER with a task-based robot designed for precision navigation and objective completion under time constraints. The bot demonstrated reliability, efficiency, and consistent task execution across multiple challenge zones.
+      Successfully completed a comprehensive Udemy course on Dart and Flutter, covering the fundamentals of Dart programming and cross-platform mobile app development using Flutter. Gained hands-on experience in building responsive, feature-rich applications with real-world UI/UX practices, API integration, and state management techniques like Provider and BLoC.
 ---
 
 ## About Me

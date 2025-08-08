@@ -5,5 +5,5 @@ external_link: https://github.com/pratham280/Warehouse_management
 tags:
   - Freelancing
 ---
-Developed a wireless EV charging prototype using STM32, with embedded C for power control, safety logic, and real-time monitoring.
+Developed a wireless EV charging prototype using ESP32, with embedded C for power control, safety logic, and real-time monitoring.
 <!--more-->
