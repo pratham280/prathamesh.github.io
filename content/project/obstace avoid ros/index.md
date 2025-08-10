@@ -1,11 +1,11 @@
 ---
-title: GSM-Based Wireless Smart Irrigation System
+title: ROS-Based Obstacle Avoidance Robot
 date: 2023-10-26
 external_link: https://github.com/pratham280/Omni_bot
 tags:
   - Freelancing
 ---
 
-Developed a GSM-based wireless irrigation system using STM32 and embedded C. Integrated a GSM module for remote control, buttons for manual input, and an LCD for real-time display and status monitoring. 
+Designed and implemented an obstacle avoidance robot using ROS, tested in Gazebo simulation and deployed on a physical platform. Utilized sensor data for real-time path planning to navigate safely in dynamic environments.
 
 <!--more-->

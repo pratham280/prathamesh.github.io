@@ -269,7 +269,7 @@ awards:
     awarder: DYPCOE, Pune
     icon: medal
     summary: |
-      Received a Certificate of Appreciation for leading and actively managing the robotics club DRAIC (Design and Robotics Automation & Innovation Club). Recognized for organizing workshops, guiding project teams, and fostering a collaborative environment that promoted innovation, hands-on learning, and technical excellence in the field of robotics.
+      Received a Certificate of Appreciation for leading and actively managing the robotics club DRAIC (DY Patil Robotics and AI Club). Recognized for organizing workshops, guiding project teams, and fostering a collaborative environment that promoted innovation, hands-on learning, and technical excellence in the field of robotics.
 # /----------------------------------------------------------------------------------------------------------------
   - title: 'Winner of AAVISHKAR 2023 (College Level)'
     url: https://avishkar.uniPune.ac.in/

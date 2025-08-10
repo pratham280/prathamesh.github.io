@@ -1,11 +1,11 @@
 ---
-title: GSM-Based Wireless Smart Irrigation System
+title: Real-Time Object Tracking using OpenCV
 date: 2023-10-26
 external_link: https://github.com/pratham280/Omni_bot
 tags:
-  - Freelancing
+  - Personal Project
 ---
 
-Developed a GSM-based wireless irrigation system using STM32 and embedded C. Integrated a GSM module for remote control, buttons for manual input, and an LCD for real-time display and status monitoring. 
+Developed a real-time object tracking system using OpenCV’s built-in algorithms to accurately follow targets in video streams for applications like robotics and surveillance.
 
 <!--more-->
