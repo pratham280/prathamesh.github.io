@@ -1,6 +1,6 @@
 ---
 title: Large Scale 3D Printer   
-date: 2021-10-26
+date: 2024-09-26
 # external_link: https://github.com/pratham280/Mars_Rover
 tags:
   - Third Year 

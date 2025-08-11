@@ -1,6 +1,6 @@
 ---
 title: Gazebo Simulation of a Omni Bot
-date: 2023-10-26
+date: 2024-04-26
 external_link: https://github.com/pratham280/Warehouse_management
 tags:
   - club project 

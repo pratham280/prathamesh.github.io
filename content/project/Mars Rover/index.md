@@ -1,6 +1,6 @@
 ---
 title: Mars Rover
-date: 2021-10-26
+date: 2023-02-26
 external_link: https://github.com/pratham280/Mars_Rover
 tags:
   - Second Year

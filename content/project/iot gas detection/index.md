@@ -1,7 +1,7 @@
 ---
 title: IoT-Based Gas Leak Detection System using ESP32 and Blynk
-date: 2023-10-26
-external_link: https://github.com/pratham280/Omni_bot
+date: 2024-02-26
+external_link: https://github.com/pratham280/iot_gasLeak
 tags:
   - Freelancing
 ---

@@ -1,7 +1,7 @@
 ---
 title: Automated Charging Station
-date: 2025-04-26
-external_link: https://github.com/pratham280/Warehouse_management
+date: 2024-12-06
+external_link: https://github.com/pratham280/charging_station
 tags:
   - Freelancing
 ---

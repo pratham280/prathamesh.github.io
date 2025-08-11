@@ -1,7 +1,7 @@
 ---
 title: AstroTinker bot
-date: 2021-10-26
-external_link: https://github.com/pratham280/Mars_Rover
+date: 2024-04-26
+external_link: https://github.com/pratham280/astrotinker_eyrc
 tags:
   - Third Year
 ---

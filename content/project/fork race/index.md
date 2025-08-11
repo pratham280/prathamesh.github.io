@@ -1,7 +1,7 @@
 ---
 title: ForkRace Bot
-date: 2023-10-26
-external_link: https://github.com/pratham280/Omni_bot
+date: 2024-11-26
+external_link: https://github.com/pratham280/forkRace.git
 tags:
   - Freelancing
 ---

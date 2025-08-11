@@ -1,6 +1,6 @@
 ---
 title: Quadruped robot aka "Sheru"
-date: 2023-10-26
+date: 2025-05-26
 external_link: https://github.com/pratham280/Quadruped_Sheru
 tags:
   - Final year project 

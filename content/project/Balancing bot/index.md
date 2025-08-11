@@ -1,7 +1,7 @@
 ---
 title: ROS Based Self Balancing Bot 
-date: 2023-10-26
-external_link: https://github.com/pratham280/Warehouse_management
+date: 2024-05-26
+external_link: https://github.com/pratham280/Self_balencing
 tags:
   - Personal Project
 ---

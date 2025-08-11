@@ -1,7 +1,7 @@
 ---
 title: GSM-Based Wireless Smart Irrigation System
-date: 2023-10-26
-external_link: https://github.com/pratham280/Omni_bot
+date: 2025-01-26
+external_link: https://github.com/pratham280/gsm_dripirr
 tags:
   - Freelancing
 ---

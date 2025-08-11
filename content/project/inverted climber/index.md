@@ -1,6 +1,6 @@
 ---
 title: Inverted Rope Climber
-date: 2023-10-26
+date: 2025-02-26
 external_link: https://github.com/pratham280/Omni_bot
 tags:
   - Personal Project

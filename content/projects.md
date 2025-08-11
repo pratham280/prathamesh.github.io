@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: My Projects
-      text: I enjoy making things. Below is a curated list of key projects I developed during my academic journey.
+      text: Driven by a passion for hands-on creation, I have developed the following projects during my academic journey.
       filters:
         folders:
           - project

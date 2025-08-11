@@ -1,7 +1,7 @@
 ---
 title: Maze Solver
-date: 2023-10-26
-external_link: https://github.com/pratham280/Omni_bot
+date: 2024-08-26
+external_link: https://github.com/pratham280/mazeSolver.git
 tags:
   - Club Project
 ---
