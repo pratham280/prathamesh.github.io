@@ -1,7 +1,7 @@
 ---
 title: ROS-Based SLAM Navigation System
 date: 2024-04-26
-external_link: https://github.com/pratham280/Omni_bot
+# external_link: https://github.com/pratham280/Omni_bot
 tags:
   - personal project
 ---

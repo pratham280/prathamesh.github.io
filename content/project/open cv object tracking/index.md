@@ -1,7 +1,7 @@
 ---
 title: Real-Time Object Tracking using OpenCV
 date: 2024-06-26
-external_link: https://github.com/pratham280/Omni_bot
+# external_link: https://github.com/pratham280/Omni_bot
 tags:
   - Personal Project
 ---

@@ -1,7 +1,7 @@
 ---
 title: ROS-Controlled 4WD Robot with Ultrasonic Sensors
 date: 2024-11-26
-external_link: https://github.com/pratham280/Omni_bot
+# external_link: https://github.com/pratham280/Omni_bot
 tags:
   - Personal Project
 ---

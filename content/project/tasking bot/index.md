@@ -1,7 +1,7 @@
 ---
 title: 4WD Tasking Robot 
 date: 2024-02-26
-external_link: https://github.com/pratham280/Warehouse_management
+# external_link: https://github.com/pratham280/Warehouse_management
 tags:
   - club project
 ---

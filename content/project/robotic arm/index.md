@@ -1,7 +1,7 @@
 ---
 title: Mini 3D-Printed Robotic Arm with ROS Control
 date: 2024-10-26
-external_link: https://github.com/pratham280/Omni_bot
+# external_link: https://github.com/pratham280/Omni_bot
 tags:
   - Freelancing
 ---

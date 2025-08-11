@@ -1,7 +1,7 @@
 ---
 title: Quasi Direct Drive Design and FOC
 date: 2025-04-26
-external_link: https://github.com/pratham280/Omni_bot
+# external_link: https://github.com/pratham280/Omni_bot
 tags:
   - Personal Project
 ---
