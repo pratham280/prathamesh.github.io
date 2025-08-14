@@ -92,7 +92,7 @@ work:
       - Designed and developed 3D models in CAD based on client ideas and requirements.
       - Produced items ranging from functional prototypes to custom novelty products.
       - Improved client designs for better strength, appearance, and print quality.
-      - Operated and maintained 3D printers to ensure precision and consistency.
+      - Operated and maintained 3D printer (Bambu Labs A1 mini) to ensure precision and consistency.
       - Delivered complete, ready-to-use products with a focus on quality and client satisfaction.
       - Provided both creative and practical solutions for unique project needs.
   - position: Project Intern
@@ -262,6 +262,15 @@ awards:
     icon: trophy
     summary: |
       Secured 2nd position at a robotics competition held by Army Institute of Technology, Pune, by designing a basic line follower robot capable of accurately navigating a simple track using IR sensors and embedded logic.
+# /----------------------------------------------------------------------------------------------------------------
+  - title: 'Certificate of Participation – MeshBot '
+    # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    certificate_url: /uploads/certificates/jspm.pdf
+    date: '2023-03-21'  
+    awarder: JSPM RSCOE, Pune
+    icon: jspm
+    summary: |
+      Awarded for active participation in the Mesh Bot Competition, showcasing skills in designing, building, and programming a line follower robot capable of autonomous navigation and precise path tracking.
 # /----------------------------------------------------------------------------------------------------------------
   - title: 'Certificate of Appreciation – Leadership in DRAIC (Robotics Club)'
     certificate_url: /uploads/certificates/aunal day.pdf
