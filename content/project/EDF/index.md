@@ -1,11 +1,11 @@
 ---
-title: Mini 3D-Printed Robotic Arm with ROS Control
+title: Homemade EDF Integration for High-Speed Line Follower
 date: 2024-10-26
 # external_link: https://github.com/pratham280/Omni_bot
 tags:
-  - Freelancing
+  - Personal Project
 ---
 
-Developed a compact, fully 3D-printed robotic arm actuated by servo motors and integrated with the Robot Operating System (ROS) for precise motion control and modular software architecture. The arm featured multi-axis movement, ROS-based joint control, and real-time command execution, enabling flexible testing, simulation, and automation workflows.
+Designed and built a custom Electric Ducted Fan (EDF) using a 6000KV BLDC motor to generate aerodynamic downforce for a line follower robot. The EDF was integrated with the chassis to improve traction and stability, enabling higher cornering speeds and faster lap times. This project combined principles of robotics, aerodynamics, and motor control to enhance performance beyond traditional line follower designs.
 
 <!--more-->

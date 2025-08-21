@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Fresher 
+role: Robotics Engineer - Fresher 
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
