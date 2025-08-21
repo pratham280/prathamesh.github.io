@@ -247,7 +247,7 @@ awards:
       I participated in Robotex India, where I developed two competition-ready robots: an advanced line follower and a maze-solving robot, securing 7th and 2nd place respectively. The line follower featured a PID control system, high-speed IR sensor array, and a custom-designed PCB for optimized performance. The maze solver demonstrated intelligent path-planning and adaptability under real-time constraints. Our performance qualified us for the international finals at Robotex Global, highlighting both our technical competence and competitive excellence.
 # /----------------------------------------------------------------------------------------------------------------
   - title: 'Runner-up – Roborastra 2024'
-    certificate_url: /uploads/certificates/aunal day.pdf
+    certificate_url: /uploads/certificates/roborastra.pdf
     date: '2025-04-26'  
     awarder: PCCOER, Pune
     icon: trophy
@@ -263,11 +263,20 @@ awards:
     summary: |
       Secured 2nd position at a robotics competition held by Army Institute of Technology, Pune, by designing a basic line follower robot capable of accurately navigating a simple track using IR sensors and embedded logic.
 # /----------------------------------------------------------------------------------------------------------------
+  - title: 'Second Runner-up – CaTrack '
+    # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    certificate_url: /uploads/certificates/jspm25.pdf
+    date: '2025-02-05'  
+    awarder: JSPM's RSCOE, Pune
+    icon: jspm
+    summary: |
+      Secured 2nd Runner-Up position in the CaTrack Competition for designing, building, and programming a line follower robot with autonomous navigation and precise path tracking capabilities.
+# /----------------------------------------------------------------------------------------------------------------
   - title: 'Certificate of Participation – MeshBot '
     # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: /uploads/certificates/jspm.pdf
+    certificate_url: /uploads/certificates/jspm23.pdf
     date: '2023-03-21'  
-    awarder: JSPM RSCOE, Pune
+    awarder: JSPM's RSCOE, Pune
     icon: jspm
     summary: |
       Awarded for active participation in the Mesh Bot Competition, showcasing skills in designing, building, and programming a line follower robot capable of autonomous navigation and precise path tracking.
