@@ -6,6 +6,6 @@ tags:
   - Club Project
 ---
 
-An omni-directional robot using omni wheels, allowing smooth lateral movement and precise control with the help of Holonomic drive in compact environments. 
+A fully autonomous robot designed to navigate unknown mazes using ultrasonic sensors. By continuously scanning its surroundings, the robot detects walls, makes path decisions in real time, and systematically explores until it locates the exit. This project demonstrates obstacle detection, decision-making algorithms, and efficient maze-solving techniques.
 
 <!--more-->

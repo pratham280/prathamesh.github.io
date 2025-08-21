@@ -6,6 +6,6 @@ tags:
   - personal project
 ---
 
-Connect a ROS robot to an IoT dashboard in Blynk for remote telemetry and control.
+A ROS-based robot integrated with IoT, streaming telemetry and real-time position data to an Blynk IoT portal for remote monitoring and control.
 
 <!--more-->

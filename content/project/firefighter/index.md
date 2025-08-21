@@ -6,6 +6,6 @@ tags:
   - Freelancing
 ---
 
-Developed a GSM-based wireless irrigation system using STM32 and embedded C. Integrated a GSM module for remote control, buttons for manual input, and an LCD for real-time display and status monitoring. 
+An autonomous firefighter robot developed for the Robotex competition, equipped with fire detection sensors to identify flame sources such as candles. Once a fire is detected, the robot navigates toward it and deploys a high-speed fan to effectively extinguish the flame, showcasing real-time sensing, decision-making, and actuation.
 
 <!--more-->

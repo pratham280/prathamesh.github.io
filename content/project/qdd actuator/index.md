@@ -6,6 +6,6 @@ tags:
   - Personal Project
 ---
 
-Developed a GSM-based wireless irrigation system using STM32 and embedded C. Integrated a GSM module for remote control, buttons for manual input, and an LCD for real-time display and status monitoring. 
+A quasi-direct drive actuator designed for quadruped robots, utilizing a NEMA motor paired with cycloidal gears to achieve high torque transmission with minimal backlash. The actuator was developed as part of research to enhance efficiency, precision, and robustness in legged locomotion.
 
 <!--more-->
