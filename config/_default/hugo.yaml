@@ -7,7 +7,6 @@
 title: Portfolio | Prathamesh M.
 # Website URL
 baseURL: 'https://example.com/'
-relativeURLs: true
 ############################
 ## LANGUAGE
 ############################
