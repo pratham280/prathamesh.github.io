@@ -26,8 +26,12 @@ sections:
       show_skill_percentage: false
   - block: resume-awards
     content:
-      title: Awards & Certifications
+      title: Achievements & Recognitions
       username: admin
+  - block: resume-awards
+    content:
+      title: Certifications
+      username: certificate
   - block: resume-languages
     content:
       title: Languages

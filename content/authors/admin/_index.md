@@ -255,7 +255,6 @@ awards:
       Secured 2nd position at ResQlympics (Roborastra 2024) held at PCCOER with a task-based robot designed for precision navigation and objective completion under time constraints. The bot demonstrated reliability, efficiency, and consistent task execution across multiple challenge zones.
 # /----------------------------------------------------------------------------------------------------------------
   - title: 'Runner-Up Triumph at Army Institute'
-    # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: /uploads/certificates/army institute.pdf
     date: '2022-12-21'  
     awarder: Army Institute of Technology, Pune
@@ -263,8 +262,16 @@ awards:
     summary: |
       Secured 2nd position at a robotics competition held by Army Institute of Technology, Pune, by designing a basic line follower robot capable of accurately navigating a simple track using IR sensors and embedded logic.
 # /----------------------------------------------------------------------------------------------------------------
+  - title: 'Participation Certificate - TrailBlaze'
+    url: https://www.cognizance.org.in/
+    certificate_url: /uploads/certificates/iitr.pdf
+    date: '2025-03-21'  
+    awarder: Indian Institute of Technology, Roorkee
+    icon: iitr
+    summary: |
+      Secured 2nd position at a robotics competition held by Army Institute of Technology, Pune, by designing a basic line follower robot capable of accurately navigating a simple track using IR sensors and embedded logic.
+# /----------------------------------------------------------------------------------------------------------------
   - title: 'Second Runner-up – CaTrack '
-    # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: /uploads/certificates/jspm25.pdf
     date: '2025-02-05'  
     awarder: JSPM's RSCOE, Pune
@@ -273,7 +280,6 @@ awards:
       Secured 2nd Runner-Up position in the CaTrack Competition for designing, building, and programming a line follower robot with autonomous navigation and precise path tracking capabilities.
 # /----------------------------------------------------------------------------------------------------------------
   - title: 'Certificate of Participation – MeshBot '
-    # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: /uploads/certificates/jspm23.pdf
     date: '2023-03-21'  
     awarder: JSPM's RSCOE, Pune
@@ -306,24 +312,6 @@ awards:
     icon: sppu
     summary: |
       After winning the college-level Avishkar project competition organized by SPPU, I was selected to represent my institution at the zonal-level round. Presented the Warehouse Management Project to a broader academic panel, showcasing its scalability, real-world application, and technical depth through a detailed poster explanation and Q&A session. This stage provided valuable exposure and recognition at a higher competitive level.
-# /----------------------------------------------------------------------------------------------------------------
-  - title: 'Certificate of Completion – ROS2 For Beginners'
-    url: https://www.udemy.com/course/ros2-for-beginners
-    certificate_url: /uploads/certificates/ros.pdf
-    date: '2024-05-26'  
-    awarder: Udemy
-    icon: ros
-    summary: |
-      Completed a hands-on course in ROS 2 (Robot Operating System 2), covering core concepts such as nodes, topics, services, actions, and the ROS 2 communication architecture. Gained practical experience in developing and simulating robotic applications using rclpy, launch files, and integrating sensors and actuators. The course also included working with simulation tools like Gazebo and RViz, emphasizing modular, scalable, and real-time robotic system development.
-# /----------------------------------------------------------------------------------------------------------------
-  - title: 'Certificate of Completion – Flutter & Dart Development Bootcamp'
-    url: https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps
-    certificate_url: /uploads/certificates/flutter.pdf
-    date: '2025-06-26'  
-    awarder: Udemy
-    icon: flutter
-    summary: |
-      Successfully completed a comprehensive Udemy course on Dart and Flutter, covering the fundamentals of Dart programming and cross-platform mobile app development using Flutter. Gained hands-on experience in building responsive, feature-rich applications with real-world UI/UX practices, API integration, and state management techniques like Provider and BLoC.
 ---
 
 ## About Me

@@ -1,5 +1,5 @@
 ---
-title: Gazebo Simulation of a Omni Bot
+title: ROS implementation of Omni Bot
 date: 2024-04-26
 # external_link: https://github.com/pratham280/Warehouse_management
 tags:
