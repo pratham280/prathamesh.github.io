@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '/publication/research/research.pdf'
+url_pdf: '../publication/research/research.pdf'
 url_code: 'https://github.com/pratham280/Quadruped_Sheru'
 url_dataset: ''
 url_poster: ''

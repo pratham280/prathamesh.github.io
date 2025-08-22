@@ -109,7 +109,7 @@ work:
       - Developed a strong understanding of additive manufacturing workflows and post-processing techniques.
     button:
       text: 'Internship letter'
-      url: /uploads/certificates/3d wizard.pdf
+      url: '../uploads/certificates/3d wizard.pdf'
   - position: Robot Engineer
     company_name: BotMakers, Pune
     company_url: ''
@@ -124,7 +124,7 @@ work:
       - Played a key role in fostering a maker culture and promoting robotics in academic communities.
     button:
       text: 'Internship letter'
-      url: /uploads/certificates/botmakers.pdf
+      url: '../uploads/certificates/botmakers.pdf'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -239,7 +239,7 @@ awards:
 # /----------------------------------------------------------------------------------------------------------------
   - title: Successfully Participated in Robotex competition 
     url: https://www.robotex-india.in/
-    certificate_url: '/uploads/certificates/robotex.pdf'
+    certificate_url: '../uploads/certificates/robotex.pdf'
     date: '2024-08-11'
     awarder: Robotex India 
     icon: robotex
@@ -247,7 +247,7 @@ awards:
       I participated in Robotex India, where I developed two competition-ready robots: an advanced line follower and a maze-solving robot, securing 7th and 2nd place respectively. The line follower featured a PID control system, high-speed IR sensor array, and a custom-designed PCB for optimized performance. The maze solver demonstrated intelligent path-planning and adaptability under real-time constraints. Our performance qualified us for the international finals at Robotex Global, highlighting both our technical competence and competitive excellence.
 # /----------------------------------------------------------------------------------------------------------------
   - title: 'Runner-up – Roborastra 2024'
-    certificate_url: /uploads/certificates/roborastra.pdf
+    certificate_url: '../uploads/certificates/roborastra.pdf'
     date: '2025-04-26'  
     awarder: PCCOER, Pune
     icon: trophy
@@ -264,7 +264,7 @@ awards:
 # /----------------------------------------------------------------------------------------------------------------
   - title: 'Participation Certificate - TrailBlaze'
     url: https://www.cognizance.org.in/
-    certificate_url: /uploads/certificates/iitr.pdf
+    certificate_url: '../uploads/certificates/iitr.pdf'
     date: '2025-03-21'  
     awarder: Indian Institute of Technology, Roorkee
     icon: iitr
@@ -272,7 +272,7 @@ awards:
       Secured 2nd position at a robotics competition held by Army Institute of Technology, Pune, by designing a basic line follower robot capable of accurately navigating a simple track using IR sensors and embedded logic.
 # /----------------------------------------------------------------------------------------------------------------
   - title: 'Second Runner-up – CaTrack '
-    certificate_url: /uploads/certificates/jspm25.pdf
+    certificate_url: '../uploads/certificates/jspm25.pdf'
     date: '2025-02-05'  
     awarder: JSPM's RSCOE, Pune
     icon: jspm
@@ -280,7 +280,7 @@ awards:
       Secured 2nd Runner-Up position in the CaTrack Competition for designing, building, and programming a line follower robot with autonomous navigation and precise path tracking capabilities.
 # /----------------------------------------------------------------------------------------------------------------
   - title: 'Certificate of Participation – MeshBot '
-    certificate_url: /uploads/certificates/jspm23.pdf
+    certificate_url: '../uploads/certificates/jspm23.pdf'
     date: '2023-03-21'  
     awarder: JSPM's RSCOE, Pune
     icon: jspm
@@ -288,7 +288,7 @@ awards:
       Awarded for active participation in the Mesh Bot Competition, showcasing skills in designing, building, and programming a line follower robot capable of autonomous navigation and precise path tracking.
 # /----------------------------------------------------------------------------------------------------------------
   - title: 'Certificate of Appreciation – Leadership in DRAIC (Robotics Club)'
-    certificate_url: /uploads/certificates/aunal day.pdf
+    certificate_url: '../uploads/certificates/aunal day.pdf'
     date: '2025-04-26'  
     awarder: DYPCOE, Pune
     icon: medal
@@ -297,7 +297,7 @@ awards:
 # /----------------------------------------------------------------------------------------------------------------
   - title: 'Winner of AAVISHKAR 2023 (College Level)'
     url: https://avishkar.uniPune.ac.in/
-    certificate_url: /uploads/certificates/avishkar.pdf
+    certificate_url: '../uploads/certificates/avishkar.pdf'
     date: '2023-09-26'  
     awarder: DYPCOE, Pune
     icon: sppu
@@ -306,7 +306,7 @@ awards:
 # /----------------------------------------------------------------------------------------------------------------
   - title: 'Participation Recognition - AAVISHKAR 2023 (Zonal Level)'
     url: https://avishkar.uniPune.ac.in/
-    certificate_url: /uploads/certificates/avishkar zonals.pdf
+    certificate_url: '../uploads/certificates/avishkar zonals.pdf'
     date: '2023-10-26'  
     awarder: Savitribai Phule Pune University (SPPU), Pune
     icon: sppu

@@ -7,7 +7,7 @@ awards:
 # /----------------------------------------------------------------------------------------------------------------
   - title: 'Certificate of Completion – ROS2 For Beginners'
     url: https://www.udemy.com/course/ros2-for-beginners
-    certificate_url: /uploads/certificates/ros.pdf
+    certificate_url: '../uploads/certificates/ros.pdf'
     date: '2024-05-26'  
     awarder: Udemy
     icon: ros
@@ -16,7 +16,7 @@ awards:
 # /----------------------------------------------------------------------------------------------------------------
   - title: 'Certificate of Completion – Flutter & Dart Development Bootcamp'
     url: https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps
-    certificate_url: /uploads/certificates/flutter.pdf
+    certificate_url: '../uploads/certificates/flutter.pdf'
     date: '2025-06-26'  
     awarder: Udemy
     icon: flutter
