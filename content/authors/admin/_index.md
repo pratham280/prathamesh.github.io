@@ -239,7 +239,7 @@ awards:
 # /----------------------------------------------------------------------------------------------------------------
   - title: Successfully Participated in Robotex competition 
     url: https://www.robotex-india.in/
-    certificate_url: /uploads/certificates/robotex.pdf
+    certificate_url: '/uploads/certificates/robotex.pdf'
     date: '2024-08-11'
     awarder: Robotex India 
     icon: robotex
