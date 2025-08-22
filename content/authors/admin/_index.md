@@ -229,7 +229,7 @@ languages:
 awards:
   - title: Active Participant – eYantra Robotics Competition
     url: https://www.e-yantra.org/
-    certificate_url: /uploads/certificates/eyrc.pdf
+    certificate_url: '../uploads/certificates/eyrc.pdf'
     date: '2024-04-21'
     awarder: E-Yantra, IITB
     icon: eyrc
@@ -255,7 +255,7 @@ awards:
       Secured 2nd position at ResQlympics (Roborastra 2024) held at PCCOER with a task-based robot designed for precision navigation and objective completion under time constraints. The bot demonstrated reliability, efficiency, and consistent task execution across multiple challenge zones.
 # /----------------------------------------------------------------------------------------------------------------
   - title: 'Runner-Up Triumph at Army Institute'
-    certificate_url: /uploads/certificates/army institute.pdf
+    certificate_url: '../uploads/certificates/army institute.pdf'
     date: '2022-12-21'  
     awarder: Army Institute of Technology, Pune
     icon: trophy
