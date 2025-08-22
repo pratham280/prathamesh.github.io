@@ -1,7 +1,7 @@
 ---
 title: Plant Watering System 
 date: 2023-10-26
-external_link: hhttps://github.com/pratham280/dripIrrigation
+external_link: https://github.com/pratham280/dripIrrigation
 tags:
   - Personal Project
 ---
