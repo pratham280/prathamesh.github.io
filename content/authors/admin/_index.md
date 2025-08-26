@@ -231,7 +231,7 @@ awards:
     url: https://www.e-yantra.org/
     certificate_url: '../uploads/certificates/eyrc.pdf'
     date: '2024-04-21'
-    awarder: E-Yantra, IITB
+    awarder: IIT Bombay
     icon: eyrc
     summary: |
       - I participated in the 15th edition of the e-Yantra Robotics Competition (eYRC) under the theme Astro Tinker, where we developed an FPGA-based line-following robot for a space-themed, task-oriented arena. 

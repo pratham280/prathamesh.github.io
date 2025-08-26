@@ -1,11 +1,11 @@
 ---
-title: ROS-Based SLAM Navigation System
+title: ROS Warehouse management
 date: 2024-04-26
 # external_link: https://github.com/pratham280/Omni_bot
 tags:
   - personal project
 ---
 
-Built a SLAM-enabled robot in ROS to map unknown environments and navigate autonomously using sensor data and real-time localization.
+A ROS-based warehouse management system using Nav2 enables autonomous mobile robots to navigate, map, and transport goods efficiently. It supports path planning, obstacle avoidance, and task execution for streamlined warehouse operations.
 
 <!--more-->

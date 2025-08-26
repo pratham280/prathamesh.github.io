@@ -1,11 +1,11 @@
 ---
-title: ROS + IoT Remote Monitoring Robot
+title: ROS Exploration bot
 date: 2025-02-26
 # external_link: https://github.com/pratham280/Omni_bot
 tags:
   - personal project
 ---
 
-A ROS-based robot integrated with IoT, streaming telemetry and real-time position data to an Blynk IoT portal for remote monitoring and control.
+A ROS-based exploration robot equipped with LiDAR, depth camera, and IMU for mapping, localization, and autonomous navigation in unknown environments.
 
 <!--more-->

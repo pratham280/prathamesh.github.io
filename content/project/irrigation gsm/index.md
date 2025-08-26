@@ -1,6 +1,6 @@
 ---
 title: GSM-Based Wireless Smart Irrigation System
-date: 2025-01-26
+date: 2024-02-26
 external_link: https://github.com/pratham280/gsm_dripirr
 tags:
   - Freelancing
