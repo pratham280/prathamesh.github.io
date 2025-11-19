@@ -81,6 +81,38 @@ education:
     summary: |
       Percentage: 79.6%
 work:
+  - position: Graduate Trainee
+    company_name: Sirobilt Services, Hyderabad
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-07-28
+    # date_end: 2025-04-30
+    summary: |
+      - Overseeing backend service operations to ensure stable, efficient execution of core application processes for Hospital management system (HIMS).
+
+      - Driving AI integration initiatives and embedding LLM-based capabilities into production workflows to enhance automation and system intelligence for triage application (Doctor assistance using AI).
+
+      - Managing, deploying, and optimizing Docker-based workloads to support scalable and reliable application environments and microservices.
+
+      - Delivering a high-availability backend infrastructure with an ongoing commitment to operational excellence, system integrity, and sustainable scalability.
+  - position: Graduate Trainee
+    company_name: Kuksons Electronics PVT LTD, Pune
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-02-20
+    date_end: 2025-04-30
+    summary: |
+      - Worked on end-to-end development of PLC, SCADA, and HMI systems using Siemens platforms.
+
+      - Designed and deployed runtime screens for plant operations, telemetry dashboards, and process monitoring.
+
+      - Built and configured HMI interfaces, including alarms, failsafes, interlocks, and operator-friendly navigation flows.
+
+      - Executed wiring, assembly, and validation of PLC racks, including both analog and digital I/O channels.
+
+      - Integrated multiple field devices and controllers through industrial communication protocols to ensure seamless data exchange.
+
+      - Delivered reliable automation solutions focused on operational continuity, safety, and system-level consistency.
   - position: Founder
     company_name: TechnoPrints, Pune
     company_url: ''
@@ -208,6 +240,14 @@ skills:
         # percent: 100
         icon: motorbike
       - name: Photography
+        description: ''
+        # percent: 80
+        icon: camera
+      - name: Chess
+        description: ''
+        # percent: 80
+        icon: camera
+      - name: Snooker 
         description: ''
         # percent: 80
         icon: camera
